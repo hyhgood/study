@@ -43,14 +43,7 @@ module.exports = {
             text: '快速搭建开发环境',
             link: '/zh/standard/Start.md'
           },
-          {
-            text: '算法',
-            items: [
-              { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
-              { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
-            ],
-          },
+        
           {
             text: '项目相关',
             items: [
@@ -77,7 +70,8 @@ module.exports = {
               { text: '小程序', link: '/zh/miniapp/' },
               { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
               { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
-              { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
+              { text: 'TouTiao', link: '/zh/interface/TouTiao.md'},
+              { text: 'DOM diff算法', link: '/zh/interface/diff.md'}
             ]
           }
         ],

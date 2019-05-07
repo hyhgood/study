@@ -24,7 +24,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 - 进阶：可以使用[nvm](https://github.com/creationix/nvm)管理window上的node版本
 
 
-## 框架
+## 自主学习官网
 ### REACT
 - [react官网](https://reactnative.cn/)
 ### VUE
@@ -33,3 +33,5 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 - [mpvue官网](http://mpvue.com/mpvue/)
 ### WEPY
 - [wepy官网](https://tencent.github.io/wepy/)
+### 小程序
+- [小程序官网](https://developers.weixin.qq.com/miniprogram/dev/index.html)
