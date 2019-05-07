@@ -8,7 +8,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: '前端知识点总结',
-      description: '任何不能够给你快乐的编程都是耍流氓'
+      description: '凡是让你痛苦的，都是让你成长的'
     }
   },
   head: [
@@ -25,7 +25,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'jasonandjay/study',
+    repo: 'hyhgood/study',
 
     docsDir: 'src',
     editLinks: true,
@@ -79,22 +79,7 @@ module.exports = {
               { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
               { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
             ]
-          },
-          // {
-          //   text: '语言',
-          //   items: [
-          //     { text: 'Chinese', link: '/language/chinese' },
-          //     { text: 'Japanese', link: '/language/japanese' }
-          //   ]
-          // },
-          // {
-          //   text: '配置参考',
-          //   link: '/config/'
-          // },
-          // {
-          //   text: '默认主题配置',
-          //   link: '/default-theme-config/'
-          // }
+          }
         ],
         sidebar: {
           '/guide/': genSidebarConfig('指南'),
